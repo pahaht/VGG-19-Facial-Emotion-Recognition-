@@ -2,7 +2,9 @@
 
 
 
-![alt text]( https://github.com/pahaht/VGG-19-Facial-Emotion-Recognition-/tree/main/Images/p-emotions.JPG)
+![alt text]( https://github.com/pahaht/VGG-19-Facial-Emotion-Recognition-/blob/main/Images/p-emotions.JPG)
+
+
 
 
 
