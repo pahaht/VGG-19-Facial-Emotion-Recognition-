@@ -2,7 +2,7 @@
 
 
 
-![alt text]( https://github.com/pahaht/VGG-19-Facial-Emotion-Recognition-]/blob/main/Images/p-emotions.JPG)
+![alt text]( https://github.com/pahaht/VGG-19-Facial-Emotion-Recognition-]/tree/main/Images/p-emotions.JPG)
 
 
 
@@ -36,4 +36,4 @@ The dataset used for facial emotion recognition typically consists of labeled fa
 with corresponding emotion categories. Common emotion categories include happiness, sadness,
 anger, surprise, fear, and disgust. The dataset is divided into training, validation, 
 and testing sets for model training, validation, and evaluation, respectively.
-![image](https://github.com/pahaht/VGG-19-Facial-Emotion-Recognition-/assets/116424869/ffd0ff6b-5463-4e29-a042-50aaa9f46e09)
+
